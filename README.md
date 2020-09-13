@@ -1,4 +1,3 @@
-# Landing_Page_01
 ![](https://i.imgur.com/1bMIBGH.jpg)
 # Proyecto Web 1
 ## Landing Page
